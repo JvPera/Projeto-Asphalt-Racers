@@ -1,0 +1,5 @@
+Para jogar:
+
+Apenas clique no inicializador. Simples assim.
+
+*OBS: Ele funciona apenas na pasta. Ou seja, o exe tem que ser acessado dentro dessa pasta. :]
